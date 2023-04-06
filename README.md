@@ -26,4 +26,5 @@ make a drawing with using colours
 <li>Advanced Smoothing</li>
 <li>Undo/Redo</li>
   </ul>
+  <p>if u have any idea to improve it or make it more interesting, u can feel free to send a PR.</p>
 
