@@ -19,7 +19,7 @@ border: 2px solid steelblue;
 background-color: steelblue;
 border: 1px solid slateblue;
 display: flex;
-width: 804px;
+width: 800px;
 padding: 1rem;
 }
 .toolbox > * {
