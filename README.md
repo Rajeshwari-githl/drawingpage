@@ -11,7 +11,7 @@ make a drawing with using colours
 <li>Smooth Lines</li>
 <li>sizes for thick lines</li>
 </ul>
-# TECHNOLOGY USED
+<h2>TECHNOLOGY USED
 <ul>
   <li>HTML & CSS</li>
 <li>
