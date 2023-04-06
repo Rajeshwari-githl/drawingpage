@@ -1,7 +1,6 @@
 # drawingpage
 make a drawing with using colours
 <h2>FEATURES</h2>
-<hr>
 <p>The drawing app supports:</p>
 <ul>
 <li>Pencil</li>
@@ -12,3 +11,11 @@ make a drawing with using colours
 <li>Smooth Lines</li>
 <li>sizes for thick lines</li>
 </ul>
+# TECHNOLOGY USED
+<ul>
+  <li>HTML & CSS</li>
+<li>
+  Javascript</li>
+  <li>ES6 </li>
+  </ul>
+
