@@ -18,4 +18,12 @@ make a drawing with using colours
   Javascript</li>
   <li>ES6 </li>
   </ul>
+  <h2>TODO</h2>
+  <ul>
+<li>Save a drawing</li>
+<li>Custom brush & background</li>
+<li>Shapes like Rectangle, Line, Dashline, Ellipse</li>
+<li>Advanced Smoothing</li>
+<li>Undo/Redo</li>
+  </ul>
 
